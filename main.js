@@ -1,0 +1,1 @@
+console.log("Este es un ejmplo para practicar");
